@@ -1,0 +1,40 @@
+exports.addOrdersSchema = {
+  description: 'Create a new order',
+  tags: ['orders'],
+  summary: 'Creates new order with given values',
+  body: {
+    type: 'object',
+    properties: {
+      firstName: {type: 'string'},
+      lastName: {type: 'string'},
+      email: {type: 'string'},
+      streetAddr: {type: 'string'},
+      creditNumber: {type: 'number'},
+      expDate: {type: 'date'},
+      cvv: {type: 'number'},
+      duration: {type: 'number'},
+      gigabytes: {type: 'number'},
+      upfrontPayment: {type: 'boolean'},
+    },
+  },
+  response: {
+    200: {
+      description: 'Successful response',
+      type: 'object',
+      properties: {
+        _id: {type: 'string'},
+        firstName: {type: 'string'},
+        lastName: {type: 'string'},
+        email: {type: 'string'},
+        streetAddr: {type: 'string'},
+        creditNumber: {type: 'number'},
+        expDate: {type: 'date'},
+        cvv: {type: 'number'},
+        duration: {type: 'number'},
+        gigabytes: {type: 'number'},
+        upfrontPayment: {type: 'boolean'},
+        __v: {type: 'number'},
+      },
+    },
+  },
+};
