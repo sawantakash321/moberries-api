@@ -5,11 +5,11 @@ import renderer from 'react-test-renderer';
 import PaymentForm from './PaymentForm';
 
 // Snapshot test
-it('matches the snapshot', () => {
+it('matches the snapshot when there are no validation errors', () => {
   const values = {
-    creditNumber: 32123547361236,
-    cvv: 234,
-    expDate: 234223,
+    creditNumber: '4565456543764357',
+    cvv: '765',
+    expDate: '012022',
   };
   const errors = {
     errors: {

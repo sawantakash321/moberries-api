@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`matches the snapshot 1`] = `
+exports[`matches the snapshot when there are no validation errors 1`] = `
 Array [
   <h6
     className="MuiTypography-root-1 MuiTypography-h6-18 MuiTypography-gutterBottom-28"
@@ -65,7 +65,7 @@ Array [
             placeholder="Enter 16 digit card number"
             required={false}
             type="number"
-            value={32123547361236}
+            value="4565456543764357"
           />
         </div>
         
@@ -126,7 +126,7 @@ Array [
             placeholder="Enter date in MMYYYY format"
             required={false}
             type="number"
-            value={234223}
+            value="012022"
           />
         </div>
         
@@ -187,7 +187,7 @@ Array [
             placeholder="Enter 3 digit CVV number "
             required={false}
             type="number"
-            value={234}
+            value="765"
           />
         </div>
         

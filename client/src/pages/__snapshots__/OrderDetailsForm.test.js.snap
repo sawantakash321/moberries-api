@@ -1,0 +1,290 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches the snapshot when there are no validation errors 1`] = `
+Array [
+  <h6
+    className="MuiTypography-root-1 MuiTypography-h6-18 MuiTypography-gutterBottom-28"
+  >
+    Select subscription parameters:
+  </h6>,
+  <br />,
+  <div
+    className="MuiGrid-container-37 MuiGrid-spacing-xs-24-61 MuiGrid-direction-xs-column-40 MuiGrid-align-items-xs-center-45 MuiGrid-justify-xs-center-54"
+  >
+    <div
+      className="MuiGrid-item-38 MuiGrid-grid-xs-12-77"
+    >
+      <div
+        className="MuiFormControl-root-134 MuiFormControl-marginNormal-135"
+      >
+        <label
+          className="MuiFormLabel-root-149 MuiFormLabel-filled-153 MuiInputLabel-root-138 MuiInputLabel-formControl-143 MuiInputLabel-animated-146 MuiInputLabel-shrink-145 MuiInputLabel-outlined-148"
+          data-shrink={true}
+          htmlFor="duration"
+        >
+          Duration
+        </label>
+        <div
+          className="MuiInputBase-root-176 MuiOutlinedInput-root-163 MuiInputBase-formControl-177"
+          onClick={[Function]}
+        >
+          <fieldset
+            aria-hidden={true}
+            className="MuiPrivateNotchedOutline-root-193 MuiOutlinedInput-notchedOutline-170"
+            style={
+              Object {
+                "paddingLeft": 8,
+              }
+            }
+          >
+            <legend
+              className="MuiPrivateNotchedOutline-legend-194"
+              style={
+                Object {
+                  "width": 0,
+                }
+              }
+            >
+              <span
+                dangerouslySetInnerHTML={
+                  Object {
+                    "__html": "&#8203;",
+                  }
+                }
+              />
+            </legend>
+          </fieldset>
+          <div
+            className="MuiSelect-root-156"
+          >
+            <div
+              aria-haspopup="true"
+              aria-pressed="false"
+              className="MuiSelect-select-157 MuiSelect-selectMenu-160 MuiSelect-outlined-159 MuiInputBase-input-186 MuiOutlinedInput-input-171"
+              id="select-duration"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              role="button"
+              tabIndex={0}
+            >
+              6
+            </div>
+            <input
+              aria-describedby="duration-helper-text"
+              id="duration"
+              name="duration"
+              type="hidden"
+              value="6"
+            />
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root-195 MuiSelect-icon-162"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M7 10l5 5 5-5z"
+              />
+            </svg>
+          </div>
+        </div>
+        <p
+          className="MuiFormHelperText-root-208 MuiFormHelperText-contained-212 MuiFormHelperText-filled-214"
+          id="duration-helper-text"
+        >
+          Please select the duration in Months 
+        </p>
+      </div>
+      <br />
+    </div>
+    <div
+      className="MuiGrid-item-38 MuiGrid-grid-xs-12-77"
+    >
+      <div
+        className="MuiFormControl-root-134 MuiFormControl-marginNormal-135"
+      >
+        <label
+          className="MuiFormLabel-root-149 MuiFormLabel-filled-153 MuiInputLabel-root-138 MuiInputLabel-formControl-143 MuiInputLabel-animated-146 MuiInputLabel-shrink-145 MuiInputLabel-outlined-148"
+          data-shrink={true}
+          htmlFor="gigabytes"
+        >
+          Gigabytes
+        </label>
+        <div
+          className="MuiInputBase-root-176 MuiOutlinedInput-root-163 MuiInputBase-formControl-177"
+          onClick={[Function]}
+        >
+          <fieldset
+            aria-hidden={true}
+            className="MuiPrivateNotchedOutline-root-193 MuiOutlinedInput-notchedOutline-170"
+            style={
+              Object {
+                "paddingLeft": 8,
+              }
+            }
+          >
+            <legend
+              className="MuiPrivateNotchedOutline-legend-194"
+              style={
+                Object {
+                  "width": 0,
+                }
+              }
+            >
+              <span
+                dangerouslySetInnerHTML={
+                  Object {
+                    "__html": "&#8203;",
+                  }
+                }
+              />
+            </legend>
+          </fieldset>
+          <div
+            className="MuiSelect-root-156"
+          >
+            <div
+              aria-haspopup="true"
+              aria-pressed="false"
+              className="MuiSelect-select-157 MuiSelect-selectMenu-160 MuiSelect-outlined-159 MuiInputBase-input-186 MuiOutlinedInput-input-171"
+              id="select-gigabytes"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              role="button"
+              tabIndex={0}
+            >
+              20
+            </div>
+            <input
+              aria-describedby="gigabytes-helper-text"
+              id="gigabytes"
+              name="gigabytes"
+              type="hidden"
+              value="20"
+            />
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root-195 MuiSelect-icon-162"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M7 10l5 5 5-5z"
+              />
+            </svg>
+          </div>
+        </div>
+        <p
+          className="MuiFormHelperText-root-208 MuiFormHelperText-contained-212 MuiFormHelperText-filled-214"
+          id="gigabytes-helper-text"
+        >
+          Please select the amount of gigabytes for 6 Months 
+        </p>
+      </div>
+      <br />
+    </div>
+    <div
+      className="MuiGrid-item-38 MuiGrid-grid-xs-12-77"
+    >
+      <div
+        className="MuiFormControl-root-134 MuiFormControl-marginNormal-135"
+      >
+        <label
+          className="MuiFormLabel-root-149 MuiFormLabel-filled-153 MuiInputLabel-root-138 MuiInputLabel-formControl-143 MuiInputLabel-animated-146 MuiInputLabel-shrink-145 MuiInputLabel-outlined-148"
+          data-shrink={true}
+          htmlFor="upfrontPayment"
+        >
+          Upfront Payment
+        </label>
+        <div
+          className="MuiInputBase-root-176 MuiOutlinedInput-root-163 MuiInputBase-formControl-177"
+          onClick={[Function]}
+        >
+          <fieldset
+            aria-hidden={true}
+            className="MuiPrivateNotchedOutline-root-193 MuiOutlinedInput-notchedOutline-170"
+            style={
+              Object {
+                "paddingLeft": 8,
+              }
+            }
+          >
+            <legend
+              className="MuiPrivateNotchedOutline-legend-194"
+              style={
+                Object {
+                  "width": 0,
+                }
+              }
+            >
+              <span
+                dangerouslySetInnerHTML={
+                  Object {
+                    "__html": "&#8203;",
+                  }
+                }
+              />
+            </legend>
+          </fieldset>
+          <div
+            className="MuiSelect-root-156"
+          >
+            <div
+              aria-haspopup="true"
+              aria-pressed="false"
+              className="MuiSelect-select-157 MuiSelect-selectMenu-160 MuiSelect-outlined-159 MuiInputBase-input-186 MuiOutlinedInput-input-171"
+              id="select-upfrontPayment"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              role="button"
+              tabIndex={0}
+            >
+              Yes
+            </div>
+            <input
+              aria-describedby="upfrontPayment-helper-text"
+              id="upfrontPayment"
+              name="upfrontPayment"
+              type="hidden"
+              value="true"
+            />
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root-195 MuiSelect-icon-162"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M7 10l5 5 5-5z"
+              />
+            </svg>
+          </div>
+        </div>
+        <p
+          className="MuiFormHelperText-root-208 MuiFormHelperText-contained-212 MuiFormHelperText-filled-214"
+          id="upfrontPayment-helper-text"
+        >
+          Would you like to pay Upfront? 
+        </p>
+      </div>
+      <br />
+    </div>
+    <br />
+    <h6
+      className="MuiTypography-root-1 MuiTypography-h6-18 MuiTypography-gutterBottom-28"
+    >
+      Total price: 
+      $undefined
+    </h6>
+  </div>,
+]
+`;

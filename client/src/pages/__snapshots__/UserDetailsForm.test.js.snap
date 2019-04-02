@@ -1,0 +1,279 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches the snapshot when there are no validation errors 1`] = `
+Array [
+  <h6
+    className="MuiTypography-root-1 MuiTypography-h6-18 MuiTypography-gutterBottom-28"
+  >
+    Enter User Details
+  </h6>,
+  <div
+    className="MuiGrid-container-37 MuiGrid-spacing-xs-24-61"
+  >
+    <div
+      className="MuiGrid-item-38 MuiGrid-grid-xs-12-77 MuiGrid-grid-sm-6-85"
+    >
+      <div
+        className="MuiFormControl-root-134 MuiFormControl-marginNormal-135 MuiFormControl-fullWidth-137"
+      >
+        <label
+          className="MuiFormLabel-root-149 MuiFormLabel-required-154 MuiInputLabel-required-142 MuiInputLabel-root-138 MuiInputLabel-formControl-143 MuiInputLabel-animated-146 MuiInputLabel-outlined-148"
+          data-shrink={false}
+          htmlFor="firstName"
+        >
+          First name
+          <span
+            className="MuiFormLabel-asterisk-155"
+          >
+             *
+          </span>
+        </label>
+        <div
+          className="MuiInputBase-root-169 MuiOutlinedInput-root-156 MuiInputBase-fullWidth-178 MuiInputBase-formControl-170"
+          onClick={[Function]}
+        >
+          <fieldset
+            aria-hidden={true}
+            className="MuiPrivateNotchedOutline-root-186 MuiOutlinedInput-notchedOutline-163"
+            style={
+              Object {
+                "paddingLeft": 8,
+              }
+            }
+          >
+            <legend
+              className="MuiPrivateNotchedOutline-legend-187"
+              style={
+                Object {
+                  "width": 0.01,
+                }
+              }
+            >
+              <span
+                dangerouslySetInnerHTML={
+                  Object {
+                    "__html": "&#8203;",
+                  }
+                }
+              />
+            </legend>
+          </fieldset>
+          <input
+            aria-invalid={false}
+            autoComplete="firstName"
+            className="MuiInputBase-input-179 MuiOutlinedInput-input-164"
+            defaultValue="akash"
+            disabled={false}
+            id="firstName"
+            name="firstName"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            required={true}
+            type="text"
+          />
+        </div>
+        
+      </div>
+    </div>
+    <div
+      className="MuiGrid-item-38 MuiGrid-grid-xs-12-77 MuiGrid-grid-sm-6-85"
+    >
+      <div
+        className="MuiFormControl-root-134 MuiFormControl-marginNormal-135 MuiFormControl-fullWidth-137"
+      >
+        <label
+          className="MuiFormLabel-root-149 MuiFormLabel-required-154 MuiInputLabel-required-142 MuiInputLabel-root-138 MuiInputLabel-formControl-143 MuiInputLabel-animated-146 MuiInputLabel-outlined-148"
+          data-shrink={false}
+          htmlFor="lastName"
+        >
+          Last name
+          <span
+            className="MuiFormLabel-asterisk-155"
+          >
+             *
+          </span>
+        </label>
+        <div
+          className="MuiInputBase-root-169 MuiOutlinedInput-root-156 MuiInputBase-fullWidth-178 MuiInputBase-formControl-170"
+          onClick={[Function]}
+        >
+          <fieldset
+            aria-hidden={true}
+            className="MuiPrivateNotchedOutline-root-186 MuiOutlinedInput-notchedOutline-163"
+            style={
+              Object {
+                "paddingLeft": 8,
+              }
+            }
+          >
+            <legend
+              className="MuiPrivateNotchedOutline-legend-187"
+              style={
+                Object {
+                  "width": 0.01,
+                }
+              }
+            >
+              <span
+                dangerouslySetInnerHTML={
+                  Object {
+                    "__html": "&#8203;",
+                  }
+                }
+              />
+            </legend>
+          </fieldset>
+          <input
+            aria-invalid={false}
+            autoComplete="lastName"
+            className="MuiInputBase-input-179 MuiOutlinedInput-input-164"
+            defaultValue="sawant"
+            disabled={false}
+            id="lastName"
+            name="lastName"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            required={true}
+            type="text"
+          />
+        </div>
+        
+      </div>
+    </div>
+    <div
+      className="MuiGrid-item-38 MuiGrid-grid-xs-12-77"
+    >
+      <div
+        className="MuiFormControl-root-134 MuiFormControl-marginNormal-135 MuiFormControl-fullWidth-137"
+      >
+        <label
+          className="MuiFormLabel-root-149 MuiFormLabel-required-154 MuiInputLabel-required-142 MuiInputLabel-root-138 MuiInputLabel-formControl-143 MuiInputLabel-animated-146 MuiInputLabel-outlined-148"
+          data-shrink={false}
+          htmlFor="email"
+        >
+          Email Address
+          <span
+            className="MuiFormLabel-asterisk-155"
+          >
+             *
+          </span>
+        </label>
+        <div
+          className="MuiInputBase-root-169 MuiOutlinedInput-root-156 MuiInputBase-fullWidth-178 MuiInputBase-formControl-170"
+          onClick={[Function]}
+        >
+          <fieldset
+            aria-hidden={true}
+            className="MuiPrivateNotchedOutline-root-186 MuiOutlinedInput-notchedOutline-163"
+            style={
+              Object {
+                "paddingLeft": 8,
+              }
+            }
+          >
+            <legend
+              className="MuiPrivateNotchedOutline-legend-187"
+              style={
+                Object {
+                  "width": 0.01,
+                }
+              }
+            >
+              <span
+                dangerouslySetInnerHTML={
+                  Object {
+                    "__html": "&#8203;",
+                  }
+                }
+              />
+            </legend>
+          </fieldset>
+          <input
+            aria-invalid={false}
+            autoComplete="email"
+            className="MuiInputBase-input-179 MuiOutlinedInput-input-164 MuiInputBase-inputType-182"
+            defaultValue="sawantakash321@gmail.com"
+            disabled={false}
+            id="email"
+            name="email"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            required={true}
+            type="email"
+          />
+        </div>
+        
+      </div>
+    </div>
+    <div
+      className="MuiGrid-item-38 MuiGrid-grid-xs-12-77"
+    >
+      <div
+        className="MuiFormControl-root-134 MuiFormControl-marginNormal-135 MuiFormControl-fullWidth-137"
+      >
+        <label
+          className="MuiFormLabel-root-149 MuiFormLabel-required-154 MuiInputLabel-required-142 MuiInputLabel-root-138 MuiInputLabel-formControl-143 MuiInputLabel-animated-146 MuiInputLabel-outlined-148"
+          data-shrink={false}
+          htmlFor="streetAddr"
+        >
+          Street Address
+          <span
+            className="MuiFormLabel-asterisk-155"
+          >
+             *
+          </span>
+        </label>
+        <div
+          className="MuiInputBase-root-169 MuiOutlinedInput-root-156 MuiInputBase-fullWidth-178 MuiInputBase-formControl-170"
+          onClick={[Function]}
+        >
+          <fieldset
+            aria-hidden={true}
+            className="MuiPrivateNotchedOutline-root-186 MuiOutlinedInput-notchedOutline-163"
+            style={
+              Object {
+                "paddingLeft": 8,
+              }
+            }
+          >
+            <legend
+              className="MuiPrivateNotchedOutline-legend-187"
+              style={
+                Object {
+                  "width": 0.01,
+                }
+              }
+            >
+              <span
+                dangerouslySetInnerHTML={
+                  Object {
+                    "__html": "&#8203;",
+                  }
+                }
+              />
+            </legend>
+          </fieldset>
+          <input
+            aria-invalid={false}
+            autoComplete="user-details address street-addr"
+            className="MuiInputBase-input-179 MuiOutlinedInput-input-164"
+            defaultValue="MLK street, behind cathom mart, Mumbai"
+            disabled={false}
+            id="streetAddr"
+            name="streetAddr"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            required={true}
+            type="text"
+          />
+        </div>
+        
+      </div>
+    </div>
+  </div>,
+]
+`;

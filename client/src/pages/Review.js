@@ -72,7 +72,7 @@ const Review = props => {
             Payment details
           </Typography>
           <Grid container>
-            <React.Fragment key={values.name}>
+            <React.Fragment key={values.creditNumber}>
               <Grid item xs={6}>
                 <Typography variant="h6" gutterBottom>
                   Card number

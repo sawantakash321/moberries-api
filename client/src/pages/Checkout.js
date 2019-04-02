@@ -91,7 +91,7 @@ class Checkout extends React.Component {
     duration: 12,
     gigabytes: 5,
     upfrontPayment: false,
-    computedPrice: '',
+    computedPrice: 0,
     creditNumber: '',
     expDate: '',
     cvv: '',

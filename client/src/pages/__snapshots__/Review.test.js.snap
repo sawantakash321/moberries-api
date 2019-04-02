@@ -1,0 +1,203 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches the snapshot when there are no validation errors 1`] = `
+Array [
+  <h4
+    className="MuiTypography-root-4 MuiTypography-h4-19 MuiTypography-gutterBottom-31"
+  >
+    Order summary
+  </h4>,
+  <h6
+    className="MuiTypography-root-4 MuiTypography-h6-21 MuiTypography-gutterBottom-31"
+  >
+    Duration: 
+    6 Months
+  </h6>,
+  <h6
+    className="MuiTypography-root-4 MuiTypography-h6-21 MuiTypography-gutterBottom-31"
+  >
+    Gigabytes: 
+    20 GB
+  </h6>,
+  <h6
+    className="MuiTypography-root-4 MuiTypography-h6-21 MuiTypography-gutterBottom-31"
+  >
+    Upfront Payment: 
+    Yes
+  </h6>,
+  <h6
+    className="MuiTypography-root-4 MuiTypography-h6-21 MuiTypography-gutterBottom-31"
+  >
+    Total Price: 
+    $6.33
+  </h6>,
+  <br />,
+  <br />,
+  <div
+    className="MuiGrid-container-40 MuiGrid-spacing-xs-16-63"
+  >
+    <div
+      className="MuiGrid-item-41 MuiGrid-grid-xs-12-80 MuiGrid-grid-sm-6-88"
+    >
+      <h4
+        className="MuiTypography-root-4 MuiTypography-h4-19 MuiTypography-gutterBottom-31 Review-title-3"
+      >
+        User Details
+      </h4>
+      <h6
+        className="MuiTypography-root-4 MuiTypography-h6-21 MuiTypography-gutterBottom-31"
+      >
+        Akash Sawant
+      </h6>
+      <h6
+        className="MuiTypography-root-4 MuiTypography-h6-21 MuiTypography-gutterBottom-31"
+      >
+        sawantakash321@gmail.com
+      </h6>
+      <h6
+        className="MuiTypography-root-4 MuiTypography-h6-21 MuiTypography-gutterBottom-31"
+      >
+        MLK street, behind cathom mart, Mumbai
+      </h6>
+    </div>
+    <div
+      className="MuiGrid-container-40 MuiGrid-item-41 MuiGrid-direction-xs-column-43 MuiGrid-grid-xs-12-80 MuiGrid-grid-sm-6-88"
+    >
+      <h4
+        className="MuiTypography-root-4 MuiTypography-h4-19 MuiTypography-gutterBottom-31 Review-title-3"
+      >
+        Payment details
+      </h4>
+      <div
+        className="MuiGrid-container-40"
+      >
+        <div
+          className="MuiGrid-item-41 MuiGrid-grid-xs-6-74"
+        >
+          <h6
+            className="MuiTypography-root-4 MuiTypography-h6-21 MuiTypography-gutterBottom-31"
+          >
+            Card number
+          </h6>
+        </div>
+        <div
+          className="MuiGrid-item-41 MuiGrid-grid-xs-6-74"
+        >
+          <h6
+            className="MuiTypography-root-4 MuiTypography-h6-21 MuiTypography-gutterBottom-31"
+          >
+            4565456543764357
+          </h6>
+        </div>
+        <div
+          className="MuiGrid-item-41 MuiGrid-grid-xs-6-74"
+        >
+          <h6
+            className="MuiTypography-root-4 MuiTypography-h6-21 MuiTypography-gutterBottom-31"
+          >
+            Expiry date
+          </h6>
+        </div>
+        <div
+          className="MuiGrid-item-41 MuiGrid-grid-xs-6-74"
+        >
+          <h6
+            className="MuiTypography-root-4 MuiTypography-h6-21 MuiTypography-gutterBottom-31"
+          >
+            012022
+          </h6>
+        </div>
+        <div
+          className="MuiGrid-item-41 MuiGrid-grid-xs-6-74"
+        >
+          <h6
+            className="MuiTypography-root-4 MuiTypography-h6-21 MuiTypography-gutterBottom-31"
+          >
+            CVV
+          </h6>
+        </div>
+        <div
+          className="MuiGrid-item-41 MuiGrid-grid-xs-6-74"
+        >
+          <h6
+            className="MuiTypography-root-4 MuiTypography-h6-21 MuiTypography-gutterBottom-31"
+          >
+            765
+          </h6>
+        </div>
+      </div>
+    </div>
+    <br />
+    <br />
+    <div
+      className="MuiGrid-item-41 MuiGrid-grid-xs-12-80"
+    >
+      <fieldset
+        className="MuiFormControl-root-137"
+      >
+        <div
+          className="MuiFormGroup-root-141"
+        >
+          <label
+            className="MuiFormControlLabel-root-143"
+          >
+            <span
+              className="MuiButtonBase-root-165 MuiIconButton-root-159 MuiPrivateSwitchBase-root-155 MuiCheckbox-root-149 MuiCheckbox-colorSecondary-154 MuiPrivateSwitchBase-checked-156 MuiCheckbox-checked-150"
+              onBlur={[Function]}
+              onContextMenu={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              tabIndex={null}
+            >
+              <span
+                className="MuiIconButton-label-164"
+              >
+                <svg
+                  aria-hidden="true"
+                  className="MuiSvgIcon-root-168"
+                  focusable="false"
+                  role="presentation"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+                  />
+                </svg>
+                <input
+                  checked={true}
+                  className="MuiPrivateSwitchBase-input-158"
+                  data-indeterminate={false}
+                  disabled={false}
+                  name="termsCheckbox"
+                  onChange={[Function]}
+                  type="checkbox"
+                />
+              </span>
+              <span
+                className="MuiTouchRipple-root-185"
+              />
+            </span>
+            <span
+              className="MuiTypography-root-4 MuiTypography-body1-13 MuiFormControlLabel-label-148"
+            >
+              I have read and accepted the Terms Agreement
+            </span>
+          </label>
+        </div>
+        <p
+          className="MuiFormHelperText-root-177 MuiFormHelperText-required-184"
+        >
+          
+        </p>
+      </fieldset>
+    </div>
+  </div>,
+]
+`;
