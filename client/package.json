@@ -3,13 +3,13 @@
   "version": "3.2.2",
   "private": true,
   "dependencies": {
-    "@material-ui/core": "latest",
+    "@material-ui/core": "^3.9.3",
     "axios": "^0.18.0",
     "material-ui": "^0.20.2",
     "prop-types": "latest",
-    "react": "latest",
-    "react-dom": "latest",
-    "react-scripts": "latest",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "^2.1.8",
     "validator": "^10.11.0"
   },
   "scripts": {
@@ -24,5 +24,10 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "enzyme": "^3.9.0",
+    "enzyme-adapter-react-16": "^1.11.2",
+    "react-test-renderer": "^16.8.6"
+  }
 }
